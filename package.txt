@@ -1,0 +1,7 @@
+pip install numpy
+pip install tk-tools
+pip install pillow
+pip install pandas
+pip install os-win
+pip install opencv-python
+pip install scikit-image
